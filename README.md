@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
 <h3 align="center">Full-Stack Developer | Building Cool Things 💻</h3>
 
@@ -135,3 +136,6 @@
 **Subhankar Nath**  
 Email: nathsubhankar57@gmail.com  
 LinkedIn: https://www.linkedin.com/in/subhankar-nath-674998325
+=======
+# notion_clone
+>>>>>>> 7304e3cb601880dcefad3d667e751d3ba5ee295c
